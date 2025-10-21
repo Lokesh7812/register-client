@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 
 // Your deployed Render backend URL
-const API_URL = "https://register-0bzz.onrender.com";
+const API_URL = "https://register-server-0jaj.onrender.com";
 
 const LoginForm = () => {
   const [formData, setFormData] = useState({
